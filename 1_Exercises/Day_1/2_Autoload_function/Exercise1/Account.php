@@ -11,6 +11,6 @@ class Account
 
     public function __toString()
     {
-        return 'Numer konta: ' . $this->number;
+        return 'Account number: ' . $this->number;
     }
 }

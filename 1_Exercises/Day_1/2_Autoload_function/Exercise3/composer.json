@@ -1,0 +1,8 @@
+{
+    "name": "alina/exercise3",
+    "require": {},
+
+    "autoload": {
+        "classmap": ["./Products/", "./Shops/"]
+    }
+}

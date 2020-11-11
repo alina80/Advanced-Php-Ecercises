@@ -11,6 +11,6 @@ class User
 
     public function __toString()
     {
-        return 'Imie: ' . $this->name;
+        return 'Name: ' . $this->name;
     }
 }
