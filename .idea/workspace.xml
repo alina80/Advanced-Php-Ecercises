@@ -20,90 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2264e9-a05c-490d-8ba5-a1fc9464e3e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Advanced-Php-Ecercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise3/StandardUrl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise3/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/InstalledVersions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/installed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/Admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/Client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise1/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise2/UserSet.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise2/UserSet.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise3/Url.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/exercise3/Url.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/1_Interfaces_abstract_and_final_classes/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/Account.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/Account.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise1/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/User/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/User/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/Vehicles/Bike.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/Vehicles/Bike.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/Vehicles/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/Vehicles/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise2/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Products/Drink.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Products/Drink.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Shops/Kmart.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Shops/Kmart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Shops/Target.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/Shops/Target.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/exercise3.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/Exercise3/exercise3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/2_Autoload_function/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise1.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/images/coderslab_leaflets.png" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/images/coderslab_leaflets.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/exercise4.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/exercise4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/src/Account/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/src/Account/Register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/src/User/Register.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/src/User/Register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/GoodbyeInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/GoodbyeInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/HelloInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/HelloInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/IntroductionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/IntroductionInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/WatchInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Interfaces/WatchInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/reed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/reed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/uwm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/uwm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Snippets/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_Snippets/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/exercise01.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/exercise01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/exercise02.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/exercise02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/exercise03.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/exercise03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise01.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise02.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise03.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise04.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise05.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/products.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/products.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Homework/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1k6SZzXSEpoj4bOC3bpx0F6XNCg" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -130,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ParcelLab" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -147,7 +71,11 @@
       <workItem from="1605019610006" duration="2286000" />
       <workItem from="1605029022620" duration="599000" />
       <workItem from="1605093746469" duration="10000" />
-      <workItem from="1605095639770" duration="16619000" />
+      <workItem from="1605095639770" duration="18737000" />
+      <workItem from="1605200302036" duration="5290000" />
+      <workItem from="1605587286839" duration="1826000" />
+      <workItem from="1606020850225" duration="1787000" />
+      <workItem from="1606022770485" duration="662000" />
     </task>
     <servers />
   </component>
@@ -170,10 +98,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="355" y="27" width="710" height="741" key="#PHP" timestamp="1606021537745">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="355" y="27" width="710" height="741" key="#PHP/55.27.1311.741@55.27.1311.741" timestamp="1606021537745" />
     <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1605107321626">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1605107321626" />
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605603407668">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1605603407668" />
     <state x="199" y="31" key="SettingsEditor" timestamp="1605109301187">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
