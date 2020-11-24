@@ -15,7 +15,26 @@ function divide(int $divider, int $dividend): float
 
 function randomDivide(int $tryNumber): void
 {
+    $count1 = 0;
+    $count2 = 0;
     for ($n = 0; $n < $tryNumber; $n++) {
-        echo divide(mt_rand(0, 20) === 0 ? 0 : 5, rand(-10, 10)) . '</br>';
+
+        try {
+            divide(mt_rand(-20, 20), rand(-10, 10)) . '</br>';
+        }catch (Exception $e){
+            $count1 ++;
+            echo "Message: " . $e->getMessage() . "<br>";
+
+        }catch (OutOfRangeException $o){
+            $count2 ++;
+            echo "Message: " . $o->getMessage() . "<br>";
+
+        }
+
     }
+    echo "First exception occurred " . $count1 . " times!<br>";
+    echo "Second exception occurred " . $count2 . " times!<br>";
 }
+
+randomDivide(7);
+

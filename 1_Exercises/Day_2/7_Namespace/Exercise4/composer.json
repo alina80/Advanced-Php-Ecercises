@@ -1,0 +1,10 @@
+{
+    "name": "alina/exercise4",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "src\\Account\\": "src/Account",
+            "src\\User\\": "src/User"
+        }
+    }
+}

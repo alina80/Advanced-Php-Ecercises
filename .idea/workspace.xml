@@ -20,13 +20,133 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e2264e9-a05c-490d-8ba5-a1fc9464e3e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise3.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/showImage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/User/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/User/Watcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/User1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/composer/platform_check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/COMMITMENT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-af.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-be.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ca.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-cs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-da.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-eo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-et.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-fa.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-fo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-gl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-he.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-hi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-hr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-hu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-hy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ka.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-mg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-pt_br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-sl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-sr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-tl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/language/phpmailer.lang-zh_cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/src/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/src/OAuth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/src/PHPMailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/src/POP3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/vendor/phpmailer/phpmailer/src/SMTP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_1/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_Homework/Day_2/Exemplul1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/3_Advanced_operations_on_strings/exercise2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_1/4_Regular_expressions/exercise2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/4_Files_in_PHP/exercise2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/5_Exceptions/exercise2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/6_Filters/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise1/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/exercise4.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/7_Namespace/Exercise4/exercise4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/8_Emails/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise2.php" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/exercise2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/uwm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1_Exercises/Day_2/9_XML/xml/uwm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/exercise01.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/exercise01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_1/exercise03.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_1/exercise03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise01.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise02.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise03.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise04.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Homework/Day_2/exercise05.php" beforeDir="false" afterPath="$PROJECT_DIR$/3_Homework/Day_2/exercise05.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +174,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ParcelLab" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BUC_PHP_S_06_Advanced_EN" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -75,7 +195,35 @@
       <workItem from="1605200302036" duration="5290000" />
       <workItem from="1605587286839" duration="1826000" />
       <workItem from="1606020850225" duration="1787000" />
-      <workItem from="1606022770485" duration="662000" />
+      <workItem from="1606022770485" duration="956000" />
+      <workItem from="1606103695079" duration="802000" />
+      <workItem from="1606104527723" duration="1786000" />
+      <workItem from="1606106426946" duration="1637000" />
+      <workItem from="1606112886741" duration="1396000" />
+      <workItem from="1606114797960" duration="1174000" />
+      <workItem from="1606117947127" duration="1783000" />
+      <workItem from="1606119817398" duration="1872000" />
+      <workItem from="1606123402402" duration="1473000" />
+      <workItem from="1606125219277" duration="1761000" />
+      <workItem from="1606127293442" duration="1430000" />
+      <workItem from="1606129497591" duration="1185000" />
+      <workItem from="1606135918511" duration="1784000" />
+      <workItem from="1606138129874" duration="1778000" />
+      <workItem from="1606140079996" duration="631000" />
+      <workItem from="1606142142690" duration="599000" />
+      <workItem from="1606147401715" duration="1791000" />
+      <workItem from="1606149312924" duration="1795000" />
+      <workItem from="1606151324424" duration="1395000" />
+      <workItem from="1606153216913" duration="1692000" />
+      <workItem from="1606155041522" duration="639000" />
+      <workItem from="1606196893583" duration="1654000" />
+      <workItem from="1606198710573" duration="1790000" />
+      <workItem from="1606201040281" duration="629000" />
+      <workItem from="1606202980652" duration="1746000" />
+      <workItem from="1606205241889" duration="1096000" />
+      <workItem from="1606207073688" duration="2625000" />
+      <workItem from="1606210182830" duration="1795000" />
+      <workItem from="1606212055355" duration="1422000" />
     </task>
     <servers />
   </component>
@@ -102,17 +250,21 @@
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="355" y="27" width="710" height="741" key="#PHP/55.27.1311.741@55.27.1311.741" timestamp="1606021537745" />
-    <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1605107321626">
+    <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1606149440143">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1605107321626" />
-    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605603407668">
+    <state x="499" y="77" width="441" height="638" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1606149440143" />
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1606139326922">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1605603407668" />
-    <state x="199" y="31" key="SettingsEditor" timestamp="1605109301187">
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1606139326922" />
+    <state x="199" y="31" key="SettingsEditor" timestamp="1606139534166">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state x="199" y="31" key="SettingsEditor/55.27.1311.741@55.27.1311.741" timestamp="1605109301187" />
+    <state x="199" y="31" key="SettingsEditor/55.27.1311.741@55.27.1311.741" timestamp="1606139534166" />
+    <state x="435" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1606121164657">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="435" y="310" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/55.27.1311.741@55.27.1311.741" timestamp="1606121164656" />
   </component>
 </project>

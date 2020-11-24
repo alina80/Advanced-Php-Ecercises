@@ -1,4 +1,5 @@
 <?php
+require_once 'vendor/autoload.php';
 
 $register1 = new src\Account\Register();
 $register2 = new src\User\Register();

@@ -1,5 +1,24 @@
 <?php
-
+    if($_SERVER['REQUEST_METHOD'] === 'POST') {
+        $sender = isset($_POST['destination']) ?
+            $_POST['destination'] : null;
+        $receiver = isset($_POST['receiver']) ?
+            $_POST['receiver'] : null;
+        $message = isset($_POST['content']) ?
+            $_POST['content'] : null;
+        $subject = 'Response';
+        $headers = array(
+            'From' => $sender,
+            'Reply-To' => $receiver,
+            'X-Mailer' => 'PHP/' . phpversion()
+        );
+        mail($receiver, $subject, $message, $headers);
+        $isOk = false;
+        if (mail($receiver, $subject, $message, $headers)) {
+            $isOk = true;
+        }
+        echo $isOk ? 'Success!' : 'Not sent!';
+    }
 ?>
 <!doctype html>
 <html lang="en">
